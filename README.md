@@ -1,4 +1,4 @@
-# BitLight-Turning-DLP-Projections-into-an-Interactive-Surface-through-Bit-level-Light-Encoding
+# BitLight: Turning DLP Projections into an Interactive Surface through Bit-level Light Encoding
 
 Free pdf download in the containing folder. If you could not download, use the google drive to download: https://drive.google.com/file/d/13VbAqfQzrIoQZks3wP30YvLDc90FDwep/view?usp=sharing
 
