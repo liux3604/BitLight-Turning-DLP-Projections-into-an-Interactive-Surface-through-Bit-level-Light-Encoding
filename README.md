@@ -17,3 +17,11 @@ This paper presents BitLight, a novel paradigm that uses the rapid flashing of a
   year={2020},
   publisher={ACM New York, NY, USA}
 }
+
+MLA
+
+Liu, Song, and Tian He. "BitLight: Turning DLP Projections into an Interactive Surface through Bit-level Light Encoding." Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4.4 (2020): 1-23.
+
+APA	
+
+Liu, S., & He, T. (2020). BitLight: Turning DLP Projections into an Interactive Surface through Bit-level Light Encoding. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), 1-23.
